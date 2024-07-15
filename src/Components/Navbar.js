@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby'
+import TrySomething from '../pages/TrySomething';
 
 const NavBar =()=> {
 
@@ -16,6 +17,10 @@ const NavBar =()=> {
 
                 <Link to='/About'>About</Link>
 
+                </li>
+
+                <li className='m-4 font-bold'>
+                <Link to='/TrySomething'>Try Something</Link>
                 </li>
                 <li className='border-solid border-2 border-light-blue-300 p-2 float-right'>
                     Contact Me

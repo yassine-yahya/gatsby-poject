@@ -13,7 +13,6 @@ const IndexPage = () => {
       <h1 className='text-white text-6xl'>Welcome to my Page!</h1>
       <p className='text-white text-5xl'>I'm making this with Javascript Framework, like React and Gatsby.</p>
       
-      <p className='text-white text-3xl'>Contact me to make one for you :)</p>
 
     </div>
     </main>
